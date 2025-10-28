@@ -1,10 +1,4 @@
-# BetIQ — Cash-Out Advisor (American Football)
 
-## Setup
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
 
 # 🎯 BetIQ Dashboard
 
@@ -92,20 +86,7 @@ Data & Cloud Enthusiast | Aspiring Software Engineer | ULM
 
 🪪 License
 
-This project is open source under the MIT License
-.
-
-
----
-
-### 4️⃣ Save your changes  
-Press **`Cmd + S`** (Mac) to save the file.
-
----
-
-### 5️⃣ Commit the change  
-Now open the **VS Code terminal** and run:
-
+This project is open source under the MIT License.
 ```bash
 git add README.md
 git commit -m "Update README.md with project description"
