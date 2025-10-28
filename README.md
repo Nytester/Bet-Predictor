@@ -87,6 +87,3 @@ Data & Cloud Enthusiast | Aspiring Software Engineer | ULM
 🪪 License
 
 This project is open source under the MIT License.
-```bash
-git add README.md
-git commit -m "Update README.md with project description"
